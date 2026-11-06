@@ -1,0 +1,347 @@
+# ACME TECHNOLOGIES PRIVATE LIMITED
+# EMPLOYEE HANDBOOK & HR POLICIES
+
+Version 2026.1 | Effective from 1 January 2026 | Owner: Human Resources | Applies to: all full-time employees in India
+
+This handbook explains the policies, benefits, and expectations that apply to every full-time employee of ACME Technologies. It is meant to answer everyday questions about work, leave, pay, and benefits. Where this handbook differs from an individual employment contract, the contract applies. Questions can be sent to hr-help@acmetech.example or posted in the #ask-hr Slack channel.
+
+---
+
+## 1. WORKING HOURS & ATTENDANCE
+
+### 1.1 Standard Hours
+- Standard business hours are Monday to Friday, 9:30 AM to 6:30 PM IST, including a one-hour lunch break.
+- Saturdays and Sundays are weekly offs. Work on a weekly off needs prior written approval from the manager.
+
+### 1.2 Hybrid Work Model
+- ACME follows a hybrid model. Employees are expected to work from the office at least 3 days per week.
+- Each team decides its in-office days, which are published in the team calendar. Tuesday and Wednesday are the default anchor days for most teams.
+- Employees on approved full-remote arrangements (see Section 5.4) are exempt from the in-office requirement.
+
+### 1.3 Core Collaboration Hours
+- Core hours are 11:00 AM to 4:00 PM IST. During this time, all team members must be reachable on Slack and available for meetings.
+- Outside core hours, employees may adjust their start and end times with manager approval, provided they complete 8 working hours a day.
+
+### 1.4 Attendance Recording
+- Office attendance is recorded through the badge system. Remote days are recorded by logging in to the HR portal (PeopleHub) before 10:00 AM.
+- Arriving more than 30 minutes late three times in a calendar month, without approval, counts as half a day of casual leave.
+- A day with fewer than 4 working hours is recorded as a half day. A day with no attendance record and no approved leave is treated as unauthorized absence.
+
+### 1.5 Overtime and Weekend Work
+- ACME does not pay overtime to employees in grades L1 and above. 
+- Employees who work on a public holiday or weekly off with prior approval receive compensatory leave (comp-off) of one day, which must be used within 60 days.
+
+---
+
+## 2. LEAVE POLICY & TIME OFF
+
+### 2.1 Annual Paid Time Off (PTO)
+- Full-time employees receive 18 days of paid vacation per calendar year, accrued at 1.5 days per month.
+- Employees who join mid-year receive PTO in proportion to the months remaining, counted from the month of joining. Joining on or before the 15th counts as a full month.
+- PTO must be applied for at least 3 working days in advance for leave of up to 2 days, and at least 2 weeks in advance for leave longer than 5 consecutive days.
+
+### 2.2 Sick & Casual Leave
+- Employees receive 10 days of casual/sick leave per calendar year, credited in full on 1 January (pro-rated for new joiners).
+- A medical certificate is required for sick leave exceeding 2 consecutive days. If a certificate is not submitted within 5 days of returning, the absence is converted to loss of pay.
+- Casual/sick leave cannot be carried forward and cannot be encashed.
+
+### 2.3 Carry Forward Rule
+- A maximum of 8 unused PTO days can be carried forward into the next calendar year.
+- Any unused PTO beyond 8 days lapses automatically on 31 December.
+- Carried-forward PTO must be used by 31 March of the following year. Days not used by then lapse.
+
+### 2.4 Leave Encashment
+- Unused PTO cannot be encashed during employment.
+- At separation, up to 8 days of unused PTO are encashed as part of the full and final settlement, calculated on basic salary.
+
+### 2.5 Public Holidays
+- ACME observes 10 fixed public holidays and 2 floating holidays each year. The official list is published in the HR portal every December.
+- Fixed holidays always include Republic Day (26 January), Labour Day (1 May), Independence Day (15 August), Gandhi Jayanti (2 October), and Christmas Day (25 December).
+- Floating holidays can be chosen from a list of regional and religious festivals. They must be selected in PeopleHub by 31 January.
+- A public holiday that falls on a weekend is not replaced with another day off.
+
+### 2.6 Maternity Leave
+- Female employees are eligible for 26 weeks of paid maternity leave for the first two children, as per the Maternity Benefit Act. For a third or later child, the entitlement is 12 weeks.
+- Maternity leave can begin up to 8 weeks before the expected delivery date.
+- An employee who has a miscarriage or medical termination of pregnancy is eligible for 6 weeks of paid leave, supported by a medical certificate.
+- Employees returning from maternity leave can request a temporary remote-work arrangement for up to 3 months.
+
+### 2.7 Paternity Leave
+- Male employees are entitled to 2 weeks of paid paternity leave, which must be taken within 3 months of the child's birth.
+- Paternity leave is not available for the same event if the employee has already used it for the same child.
+
+### 2.8 Adoption Leave
+- An employee who legally adopts a child under 3 months old is eligible for 12 weeks of paid leave.
+
+### 2.9 Bereavement Leave
+- Employees are granted 5 paid days of bereavement leave on the death of a spouse, parent, child, or sibling, and 2 days for grandparents or parents-in-law.
+- This leave is separate from PTO and casual/sick leave.
+
+### 2.10 Marriage Leave
+- Employees are eligible for 5 paid days of marriage leave for their own wedding. It can be taken once during employment and must be applied for at least 4 weeks in advance.
+
+### 2.11 Loss of Pay (LOP)
+- Leave taken without available balance is treated as loss of pay. For each LOP day, 1/30th of the monthly gross salary is deducted.
+- If a weekend or public holiday falls between two LOP days, the weekend or holiday is also counted as LOP.
+
+### 2.12 How to Apply for Leave
+- All leave is applied for in PeopleHub. The reporting manager approves or rejects the request within 2 working days.
+- Leave is considered approved only after manager approval is shown in the portal. A verbal approval is not enough.
+- Employees on unplanned leave must inform their manager on Slack or by phone before 10:00 AM on the first day.
+
+---
+
+## 3. PROBATION & NOTICE PERIOD
+
+### 3.1 Probation
+- The standard probationary period for all new hires is 3 months from the date of joining.
+- Probation may be extended by up to 3 more months if performance expectations are not met. The extension is communicated in writing before the end of month 3.
+- Confirmation is communicated by email after a review by the manager and HR.
+
+### 3.2 Leave During Probation
+- Employees accrue PTO during probation but can use it only after completing 90 days, except for emergencies approved by the manager.
+- Casual/sick leave is available from the date of joining.
+- Maternity and paternity leave are available to employees who have completed at least 80 days of service, as per statutory requirements.
+
+### 3.3 Notice Period During Probation
+- During the probation period, either party may end the employment with 15 calendar days of written notice.
+
+### 3.4 Notice Period After Confirmation
+- After successful probation confirmation, the standard notice period is 60 calendar days (2 months).
+- For employees in grade L5 and above, the notice period is 90 calendar days.
+
+### 3.5 Notice Period Buyout
+- Immediate resignation buyout requests require explicit approval from the Department Head and the HR Director.
+- If approved, the employee pays the basic salary for the unserved notice days. Unused PTO cannot be adjusted against the unserved notice period.
+
+### 3.6 Leave During Notice Period
+- Employees cannot take PTO during the notice period without written approval from the manager.
+- Any leave taken during notice, other than medical leave, extends the last working day by the same number of days.
+
+### 3.7 Resignation Process
+- Resignation must be submitted in writing through PeopleHub, copying the reporting manager and HR.
+- The last working day is confirmed by HR within 3 working days of the resignation date.
+
+---
+
+## 4. HEALTH INSURANCE & WELLNESS BENEFITS
+
+### 4.1 Group Health Insurance
+- Coverage is up to INR 5,00,000 per year for the employee, spouse, and up to two dependent children.
+- Coverage begins on the date of joining, with no waiting period for pre-existing conditions.
+- Parents or parents-in-law can be added as a top-up. The employee pays the additional premium through payroll deduction.
+
+### 4.2 What the Insurance Covers
+- Hospitalization of 24 hours or more, including room rent up to INR 5,000 per day, ICU charges, surgery, and doctor fees.
+- Pre-hospitalization expenses for 30 days and post-hospitalization expenses for 60 days.
+- Day-care procedures, such as dialysis, chemotherapy, and cataract surgery.
+- Maternity expenses up to INR 75,000 for normal delivery and INR 1,00,000 for a C-section, with a newborn covered from day one.
+
+### 4.3 What the Insurance Does Not Cover
+- Cosmetic surgery, unless needed after an accident.
+- Treatment taken outside India, other than emergencies abroad during official travel.
+- Self-inflicted injuries and injuries from adventure sports.
+- Infertility treatments.
+
+### 4.4 How to Claim
+- **Cashless:** Show the insurance e-card at a network hospital. For planned admissions, inform the insurer at least 48 hours before admission. For emergencies, inform the insurer within 24 hours.
+- **Reimbursement:** If treated at a non-network hospital, pay the bill first and submit the claim documents within 30 days of discharge.
+- Required documents for reimbursement: discharge summary, original bills, payment receipts, and investigation reports.
+- Claims are generally settled within 15 working days of receiving complete documents.
+
+### 4.5 OPD & Dental Reimbursement
+- Up to INR 15,000 per employee per year for outpatient consultations, prescribed medicines, and dental treatments.
+- Claims must be submitted in the HR reimbursement portal within 45 days of the bill date, with a prescription and original bill.
+- OPD limits cannot be carried forward to the next year.
+- OPD claims are for the employee only. Dependents are not covered under OPD.
+
+### 4.6 Annual Health Checkup
+- One fully subsidized comprehensive preventive health checkup per year at partnered diagnostic centers.
+- The checkup can be booked through PeopleHub. Home sample collection is available in major cities.
+- Dependents (spouse and parents) can take the checkup at a discounted rate paid by the employee.
+
+### 4.7 Mental Health & Wellness Support
+- All employees and their families have access to a free, confidential Employee Assistance Programme (EAP) with up to 6 counseling sessions per person per year.
+- The EAP helpline is available 24 hours a day, 7 days a week.
+- ACME also provides a monthly wellness allowance of INR 1,000, claimable for gym memberships, yoga classes, or fitness apps.
+
+### 4.8 Accidental Insurance & Life Cover
+- All employees have a group term life cover of 3 times their annual fixed salary, and personal accident cover of INR 10,00,000.
+
+---
+
+## 5. REMOTE WORK & EQUIPMENT ALLOWANCE
+
+### 5.1 Work-from-Home Setup Reimbursement
+- A one-time allowance of up to INR 25,000 is available for setting up an ergonomic home office, such as a desk, chair, and external monitor.
+- The claim must be submitted within 90 days of the date of joining or the date of approval for a hybrid arrangement.
+- Items bought with this allowance remain the employee's property after 2 years of service. If the employee leaves before 2 years, no recovery is made for amounts under INR 10,000.
+
+### 5.2 Monthly Internet Reimbursement
+- Employees in hybrid roles can claim up to INR 1,500 per month for home broadband, through the HR reimbursement portal.
+- The claim needs the monthly bill in the employee's or a family member's name. Mobile data plans are not eligible.
+- Claims must be submitted by the 5th of the following month.
+
+### 5.3 Company Laptops
+- Official laptops are company property. They are refreshed every 3 years.
+- Laptops must be returned on the last working day. A lost or damaged laptop must be reported to IT within 24 hours.
+- If a laptop is lost due to negligence, the employee may be asked to pay the depreciated value of the laptop.
+- Personal software and personal data should not be stored on company laptops. ACME may wipe the device after separation.
+
+### 5.4 Full-Remote Arrangements
+- Full-remote work is allowed only for roles approved by the Department Head and HR.
+- Employees working remotely from a different city must have their manager and HR update their work location in advance, because of tax and compliance requirements.
+- Working from outside India is not allowed without written approval from the HR Director, for legal and data-security reasons.
+
+### 5.5 Temporary Work-from-Anywhere
+- Each employee can work from another city in India for up to 10 working days in a calendar year, with manager approval at least 2 weeks in advance.
+
+---
+
+## 6. TRAVEL & EXPENSE REIMBURSEMENT
+
+### 6.1 Business Travel
+- Employees travelling for business should book flights and hotels through the company travel desk (travel@acmetech.example).
+- Flights are economy class. Train travel is in AC 2-tier or equivalent.
+- Hotel limits per night: INR 6,000 in metro cities and INR 4,000 in other cities.
+
+### 6.2 Daily Allowance
+- A food and incidental allowance of INR 1,000 per day is paid for domestic travel, and USD 50 per day for international travel.
+- Alcohol is not reimbursable.
+
+### 6.3 Local Travel & Mobile
+- Cab expenses for official travel and for late-night work (after 9:00 PM) are reimbursable with receipts.
+- A mobile reimbursement of up to INR 500 per month is available for employees whose roles require phone use.
+
+### 6.4 Submitting Expense Claims
+- Expense claims must be submitted within 30 days of the expense, with original receipts.
+- Claims above INR 10,000 need approval from the Department Head in addition to the manager.
+- Claims submitted after 60 days are not accepted.
+- Approved claims are paid with the next monthly payroll.
+
+---
+
+## 7. COMPENSATION, PAYROLL & STATUTORY BENEFITS
+
+### 7.1 Salary Payment
+- Salaries are paid on the last working day of each month, directly to the employee's bank account.
+- Payslips are available in PeopleHub by the 3rd working day of the following month.
+
+### 7.2 Salary Structure
+- Salary has a fixed part (basic, HRA, special allowance) and, for some roles, a variable pay component.
+- Basic salary is 40% of the fixed salary. HRA is 50% of basic for metro cities.
+
+### 7.3 Provident Fund (PF)
+- Both the employee and ACME contribute 12% of basic salary to the Employees' Provident Fund.
+- Employees can withdraw their PF balance after leaving, as per EPFO rules.
+
+### 7.4 Gratuity
+- Employees who complete 5 years of continuous service are eligible for gratuity, calculated as 15 days of last drawn basic salary for each completed year of service.
+- Gratuity is also paid to the family in case of an employee's death, with no minimum service requirement.
+
+### 7.5 Performance Review & Increments
+- ACME follows an annual performance cycle from January to December. Reviews happen in January and February.
+- Salary increments are effective from 1 April.
+- Employees who joined after 30 September are reviewed in the next cycle.
+- Employees on a performance improvement plan (PIP) are not eligible for increments until the PIP is closed successfully.
+
+### 7.6 Annual Bonus
+- Eligible employees receive a performance bonus, paid in April. The amount depends on company and individual performance.
+- Employees who resign before the bonus payout date are not eligible for it.
+
+### 7.7 Referral Bonus
+- Employees who refer a candidate who is hired and completes 6 months receive INR 30,000.
+- Referral bonuses are not paid for hiring in HR, or for roles above L6.
+
+### 7.8 Tax Declarations
+- Employees must submit investment declarations in PeopleHub by 30 April, and proofs by 31 January, for the right TDS deduction.
+
+---
+
+## 8. CODE OF CONDUCT & ETHICS
+
+### 8.1 Zero Tolerance for Harassment
+- The company strictly enforces a zero-tolerance policy regarding sexual harassment, discrimination, and workplace bullying, in line with the POSH Act (Prevention of Sexual Harassment) guidelines.
+- This applies in the office, at remote work, at company events, and in online communication such as Slack, email, and video calls.
+
+### 8.2 Internal Committee (IC)
+- ACME has an Internal Committee headed by a senior woman employee, with an external member from an NGO or a legal background.
+- Complaints can be sent to ic@acmetech.example, in writing or in person, within 3 months of the incident.
+- The IC completes the inquiry within 90 days. Complaints and identities are kept confidential.
+- Retaliation against a person who raises a complaint in good faith is a serious violation.
+
+### 8.3 Confidentiality
+- Employees must not disclose proprietary code, client data, or internal financial figures to any external third party.
+- This obligation continues after leaving the company.
+- Do not upload client data or source code to personal storage or public AI tools. Only ACME-approved tools can be used with company data.
+
+### 8.4 Conflict of Interest
+- Employees must inform HR if they have a financial interest in a competitor, supplier, or client of ACME.
+- Working a second job or freelancing is not allowed without written approval from HR.
+
+### 8.5 Gifts and Hospitality
+- Gifts from vendors or clients above INR 3,000 in value must be declared to HR and may need to be returned.
+- Cash gifts are never allowed.
+
+### 8.6 Social Media
+- Employees must not share confidential information on social media or speak on behalf of ACME without approval from the communications team.
+
+### 8.7 Disciplinary Action
+- Violations of the Code of Conduct may lead to a warning, suspension, or termination, depending on how serious the matter is.
+- Serious misconduct, including theft, fraud, harassment, and data breach, can lead to immediate termination without notice.
+
+---
+
+## 9. IT, DATA SECURITY & ACCEPTABLE USE
+
+- Use only company-provided laptops for work. Personal devices may be used only for email and Slack, with multi-factor authentication turned on.
+- Use strong passwords, do not share them, and report phishing emails to security@acmetech.example.
+- Lost devices, suspected breaches, and suspicious activity must be reported to IT within 24 hours.
+- Company laptops must have disk encryption and automatic screen lock after 5 minutes of inactivity.
+- Using public Wi-Fi for work requires the company VPN.
+
+---
+
+## 10. EXIT & FULL AND FINAL SETTLEMENT
+
+### 10.1 Exit Process
+- On the last working day, the employee returns the laptop, ID card, and any other company property, and completes the clearance form in PeopleHub.
+- An exit interview is held with HR in the final week.
+
+### 10.2 Full and Final (F&F) Settlement
+- F&F settlement is completed within 45 days of the last working day.
+- It includes pending salary, encashment of up to 8 days of unused PTO, and any approved reimbursements. Deductions apply for unserved notice period, unreturned assets, and any advances.
+
+### 10.3 Documents Issued
+- Relieving letter and experience letter are issued after the F&F is closed.
+- PF transfer and Form 16 support is provided by the payroll team.
+
+### 10.4 Termination
+- Termination for performance reasons follows a documented process, with a performance improvement plan of 60 days.
+- Termination for misconduct follows an inquiry, where the employee gets a chance to respond.
+
+---
+
+## 11. GRIEVANCE REDRESSAL
+
+- Employees should first raise a concern with their reporting manager. If it is not resolved in 5 working days, they can contact HR at hr-help@acmetech.example.
+- If it is still not resolved, they can escalate to the HR Director within 10 working days.
+- Concerns about ethics or fraud can be reported anonymously through the whistleblower line at ethics@acmetech.example.
+
+---
+
+## 12. QUICK REFERENCE: KEY CONTACTS
+
+| Topic | Contact |
+|---|---|
+| General HR questions | hr-help@acmetech.example |
+| Payroll and payslips | payroll@acmetech.example |
+| Insurance claims | benefits@acmetech.example |
+| IT support | it-support@acmetech.example |
+| Travel bookings | travel@acmetech.example |
+| POSH Internal Committee | ic@acmetech.example |
+| Ethics line | ethics@acmetech.example |
+
+---
+
+*This handbook is a sample document created for a demonstration project. ACME Technologies is a fictional company.*
